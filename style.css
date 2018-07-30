@@ -1,2 +1,9 @@
 body {background-color:pink; color: black;}
 h1 {color:white; text-align: center;}
+a{color:yellow;}
+li.meat{color:red;}
+li.veg{color:green;}
+p#lol{color:purple;}
+p#lol{font-family: "Times New Roman"}
+h1#lola{font-size: 20px}
+div{position: fixed}
